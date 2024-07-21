@@ -49,6 +49,7 @@ const Home = () => {
                     <p>Book pujas At Temple</p>
                     </li>
                 </ul>
+                <h1>Hello Thirumalesh</h1>
             </div>
         </div>
 
