@@ -50,6 +50,7 @@ const Home = () => {
                     </li>
                 </ul>
                 <h1>Hello Thirumalesh</h1>
+                <p>Hello all</p>
             </div>
         </div>
 
